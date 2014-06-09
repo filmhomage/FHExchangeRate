@@ -116,11 +116,9 @@
 			children = (
 				AA98334419073E3400EB3A56 /* FHExchangeRateAppDelegate.h */,
 				AA98334519073E3400EB3A56 /* FHExchangeRateAppDelegate.m */,
-				AA98334719073E3400EB3A56 /* Main_iPhone.storyboard */,
-				AA98334A19073E3400EB3A56 /* Main_iPad.storyboard */,
 				AA98334D19073E3400EB3A56 /* FHExchangeRateViewController.h */,
 				AA98334E19073E3400EB3A56 /* FHExchangeRateViewController.m */,
-				AA98335019073E3400EB3A56 /* Images.xcassets */,
+				AA98336D19073E4C00EB3A56 /* Resource */,
 				AA98333C19073E3400EB3A56 /* Supporting Files */,
 			);
 			path = FHExchangeRate;
@@ -153,6 +151,16 @@
 				AA98336019073E3400EB3A56 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AA98336D19073E4C00EB3A56 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				AA98334719073E3400EB3A56 /* Main_iPhone.storyboard */,
+				AA98334A19073E3400EB3A56 /* Main_iPad.storyboard */,
+				AA98335019073E3400EB3A56 /* Images.xcassets */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -471,6 +479,7 @@
 				AA98336919073E3400EB3A56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AA98336A19073E3400EB3A56 /* Build configuration list for PBXNativeTarget "FHExchangeRateTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +488,7 @@
 				AA98336C19073E3400EB3A56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

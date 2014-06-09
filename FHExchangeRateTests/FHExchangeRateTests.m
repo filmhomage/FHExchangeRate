@@ -2,8 +2,8 @@
 //  FHExchangeRateTests.m
 //  FHExchangeRateTests
 //
-//  Created by jonghyun_kim on 2014/04/23.
-//  Copyright (c) 2014年 net.filmhomage. All rights reserved.
+//  Created by earth on 6/9/14.
+//  Copyright (c) 2014 filmhomage.net. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
